@@ -11,7 +11,7 @@ var game1 = function() {
     alert("We don't understand your answer so demola wins.")
 }
 
-var pirate = function() {
+var game2 = function() {
   var answer = Math.floor(Math.random() * 20);
   counter = 0;
   do {
